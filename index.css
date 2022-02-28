@@ -20,7 +20,7 @@ button{
     height: 51px;
 }
 .Calculator{
-    background-color: blue;
+    background-color: lightblue;
     padding: 25px;
     display: inline-block;
     border: 12px solid black;
